@@ -50,7 +50,7 @@ Basata sul microcontrollore **ESP32-S3**, la scheda acquisisce e processa in tem
 
 ## 🎬 Video & Attachments / Video e Allegati
 
-* 🎥 **Hardware Demonstration Video:** [Watch System Startup & GPS Fix Test on YouTube]()
+* 🎥 **Hardware Demonstration Video:** [Watch System Startup & GPS Fix Test on YouTube](https://youtu.be/SuNiSawtJ5U)
 
 ---
 
