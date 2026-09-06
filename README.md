@@ -1,6 +1,6 @@
 # ONDA v2.5 — SuMoth Data Acquisition System
 
-<img src="https://github.com/user-attachments/assets/0174e8e6-0792-46dd-83ef-8188031583d2" width="600" alt="1788624298226">
+<img src="https://github.com/user-attachments/assets/0174e8e6-0792-46dd-83ef-8188031583d2" width="400" alt="1788624298226">
 
 ## 🇬🇧 English Description
 
