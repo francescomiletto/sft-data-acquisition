@@ -41,7 +41,7 @@ Basata sul microcontrollore **ESP32-S3**, la scheda acquisisce e processa in tem
 ## 📐 System Schematics & PCB Layout / Schemi e Layout PCB
 
 ### Connection Block Diagram / Schema Elettrico di Connessione
-<img width="1108" height="810" alt="SCHEMA" src="https://github.com/user-attachments/assets/c1636733-7222-4234-864f-4a9a7fb51d4f" />
+<img width="600" alt="SCHEMA" src="https://github.com/user-attachments/assets/c1636733-7222-4234-864f-4a9a7fb51d4f" />
 
 ### 3D CAD Board Model / Modello 3D PCB
 <img width="1289" height="785" alt="3D Scheda Sumoth" src="https://github.com/user-attachments/assets/0442a888-f010-415f-b512-a0a4a6e810ed" />
