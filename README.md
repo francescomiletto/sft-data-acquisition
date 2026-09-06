@@ -1,7 +1,7 @@
 # ONDA v2.5 — SuMoth Data Acquisition System
 
-![Physical Board Assembled](<img width="3072" height="4080" alt="1788624298226" src="https://github.com/user-attachments/assets/0174e8e6-0792-46dd-83ef-8188031583d2" />
-)
+<img width="3072" height="4080" alt="1788624298226" src="https://github.com/user-attachments/assets/0174e8e6-0792-46dd-83ef-8188031583d2" />
+
 
 ## 🇬🇧 English Description
 
